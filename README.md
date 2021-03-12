@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pleasewaitinthequeue
+- 👀 I’m interested in Software Development in JavaScript, Python
+- 🌱 I’m currently learning Google Cloud Platform
+- 💞️ I’m looking to collaborate on New Data Projects
+- 📫 How to reach me none.shall.pass.2009@gmail.com
